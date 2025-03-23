@@ -21,15 +21,6 @@ BillX is a supermarket billing system designed to help small businesses and reta
 ---
 
 
-## 📄 Project Documentation
-You can find the detailed documentation of the project below:
-
-- 📜 [Project Proposal](docs/BillX_Proposal.pdf)
-- 📘 [Final Report](docs/BillX_Report.pdf)
-
----
-
-
 ## 📷 Screenshots
 
 | Feature            | Screenshot |
