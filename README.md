@@ -70,7 +70,7 @@ BillX is a supermarket billing system designed to help small businesses and reta
 
 ---
 
-## 🤝 Contributors
+## 🤝 This project is made by:
 - **Shashwat Khadka**
 - **Shubin Pokhrel**
 - **Siddhartha Lal Pradhan**
