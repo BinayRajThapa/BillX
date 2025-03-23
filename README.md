@@ -1,6 +1,8 @@
 # BillX: Billing System
 
-![BillX Logo](images/logo.png) 
+<p align="center">
+  <img src="images/logo.png" alt="BillX Logo" width="200">
+</p>
 
 ---
 
@@ -17,6 +19,16 @@ BillX is a supermarket billing system designed to help small businesses and reta
 - **User Dashboard**: Different interfaces for Admin and Employees.
 
 ---
+
+
+## 📄 Project Documentation
+You can find the detailed documentation of the project below:
+
+- 📜 [Project Proposal](docs/BillX_Proposal.pdf)
+- 📘 [Final Report](docs/BillX_Report.pdf)
+
+---
+
 
 ## 📷 Screenshots
 
@@ -62,6 +74,7 @@ BillX is a supermarket billing system designed to help small businesses and reta
 5. **Run the project** inside Qt Creator.
    
 ---
+
 
 ## 🔥 Future Enhancements
 - Generate **physical bills** along with digital receipts.
