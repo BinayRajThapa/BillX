@@ -1,11 +1,11 @@
 # BillX: Billing System
 
-![BillX Logo](images/logo.png) *(Replace with actual logo path if available)*
+![BillX Logo](images/logo.png) 
 
 ---
 
 ## 📌 Project Overview
-BillX is a supermarket billing system designed to help small businesses and retail stores manage billing, inventory, and membership services efficiently. Built using **C++**, **Qt**, and **SQLite**, this desktop application simplifies transaction processes and enhances business operations.
+BillX is a supermarket billing system designed to help small businesses and retail stores efficiently manage billing, inventory, and membership services. This desktop application, built using **C++**, **Qt**, and **SQLite**, simplifies transaction processes and enhances business operations.
 
 ---
 
@@ -51,7 +51,7 @@ BillX is a supermarket billing system designed to help small businesses and reta
 
 2. **Navigate to the project directory:**
    ```bash
-   cd billx
+   cd billX
 
 3. **Install Qt Framework** 
     (Ensure Qt is installed on your system).
